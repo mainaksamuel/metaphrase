@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import click
-# from metaphrase.app import get_translation
-from app import get_translation
+from metaphrase.app import get_translation
 
 
 @click.group()
